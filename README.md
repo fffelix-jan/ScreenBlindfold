@@ -16,3 +16,5 @@ Use cases of the program:
 - Helping to maintain compliance with data privacy regulations by preventing unauthorized capturing of sensitive information on screen.
 
 The program is compatible with Windows XP, Vista, 7, 8, 10, 11 and newer.
+
+# [Download Now](https://github.com/fffelix-jan/ScreenBlindfold/releases/download/v1.0.0/ScreenBlindfold.exe)
