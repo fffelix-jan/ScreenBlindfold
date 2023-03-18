@@ -12,7 +12,6 @@ Use cases of the program:
 - Securing intellectual property or trade secrets displayed on screen during meetings or presentations
 - Preventing online proctors or examiners from capturing sensitive information during online exams or assessments (IMPORTANT: This program is NOT meant to be used to bypass proctoring during exams. You must follow all academic integrity guidelines when using this program.)
 - Protecting personal privacy by preventing others from taking screenshots or recording your screen without your permission
-- Preventing unauthorized access to confidential information on your screen by someone who gains physical access to your device
 - Helping to maintain compliance with data privacy regulations by preventing unauthorized capturing of sensitive information on screen.
 
 The program is compatible with Windows XP, Vista, 7, 8, 10, 11 and newer.
