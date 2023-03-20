@@ -14,6 +14,6 @@ Use cases of the program:
 - Protecting personal privacy by preventing others from taking screenshots or recording your screen without your permission
 - Helping to maintain compliance with data privacy regulations by preventing unauthorized capturing of sensitive information on screen.
 
-The program is compatible with 10, 11 and newer. Work to support Windows XP, Vista, 7, and 8 is in progress.
+The program is compatible with Windows 10, 11 and newer. Work to support Windows XP, Vista, 7, and 8 is in progress.
 
 # [Download Now](https://github.com/fffelix-jan/ScreenBlindfold/releases/download/v1.0.0/ScreenBlindfold.exe)
